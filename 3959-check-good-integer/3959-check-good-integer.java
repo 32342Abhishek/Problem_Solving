@@ -9,10 +9,7 @@ class Solution {
             n/=10;
 
         }
-        if(sum-ds>=50){
-            return true;
-        }
-        return false;
+        return (sum-ds>=50);
 
     }
 }

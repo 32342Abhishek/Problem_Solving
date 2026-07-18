@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/32342Abhishek/Problem_Solving/tree/master/0069-sqrtx) |
+| [1137-n-th-tribonacci-number](https://github.com/32342Abhishek/Problem_Solving/tree/master/1137-n-th-tribonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/32342Abhishek/Problem_Solving/tree/master/0217-contains-duplicate) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/32342Abhishek/Problem_Solving/tree/master/1137-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/32342Abhishek/Problem_Solving/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->

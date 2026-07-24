@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/32342Abhishek/Problem_Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/32342Abhishek/Problem_Solving/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/32342Abhishek/Problem_Solving/tree/master/0217-contains-duplicate) |
+| [0713-subarray-product-less-than-k](https://github.com/32342Abhishek/Problem_Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0746-min-cost-climbing-stairs](https://github.com/32342Abhishek/Problem_Solving/tree/master/0746-min-cost-climbing-stairs) |
 | [1004-max-consecutive-ones-iii](https://github.com/32342Abhishek/Problem_Solving/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/32342Abhishek/Problem_Solving/tree/master/0069-sqrtx) |
+| [0713-subarray-product-less-than-k](https://github.com/32342Abhishek/Problem_Solving/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/32342Abhishek/Problem_Solving/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
@@ -67,9 +69,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/32342Abhishek/Problem_Solving/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/32342Abhishek/Problem_Solving/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/32342Abhishek/Problem_Solving/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/32342Abhishek/Problem_Solving/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->

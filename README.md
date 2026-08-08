@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/32342Abhishek/Problem_Solving/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/32342Abhishek/Problem_Solving/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/32342Abhishek/Problem_Solving/tree/master/1137-n-th-tribonacci-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/32342Abhishek/Problem_Solving/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/32342Abhishek/Problem_Solving/tree/master/0217-contains-duplicate) |
+| [3536-maximum-product-of-two-digits](https://github.com/32342Abhishek/Problem_Solving/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
 | ------- |

@@ -1,4 +1,5 @@
-SELECT email AS Email
-FROM Person
-GROUP BY email
-HAVING COUNT(email) > 1;
+SELECT DISTINCT e.email AS Email
+FROM Person e
+JOIN Person a
+ON e.email = a.email
+AND e.id <> a.id;

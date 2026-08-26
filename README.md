@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/32342Abhishek/Problem_Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/32342Abhishek/Problem_Solving/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/32342Abhishek/Problem_Solving/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/32342Abhishek/Problem_Solving/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/32342Abhishek/Problem_Solving/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/32342Abhishek/Problem_Solving/tree/master/0217-contains-duplicate) |
 | [0713-subarray-product-less-than-k](https://github.com/32342Abhishek/Problem_Solving/tree/master/0713-subarray-product-less-than-k) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/32342Abhishek/Problem_Solving/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/32342Abhishek/Problem_Solving/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/32342Abhishek/Problem_Solving/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/32342Abhishek/Problem_Solving/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/32342Abhishek/Problem_Solving/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/32342Abhishek/Problem_Solving/tree/master/1137-n-th-tribonacci-number) |

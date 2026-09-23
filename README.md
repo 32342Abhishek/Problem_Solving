@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/32342Abhishek/Problem_Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/32342Abhishek/Problem_Solving/tree/master/0205-isomorphic-strings) |
+| [0451-sort-characters-by-frequency](https://github.com/32342Abhishek/Problem_Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/32342Abhishek/Problem_Solving/tree/master/0796-rotate-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/32342Abhishek/Problem_Solving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1903-largest-odd-number-in-string](https://github.com/32342Abhishek/Problem_Solving/tree/master/1903-largest-odd-number-in-string) |
@@ -57,10 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/32342Abhishek/Problem_Solving/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/32342Abhishek/Problem_Solving/tree/master/0217-contains-duplicate) |
+| [0451-sort-characters-by-frequency](https://github.com/32342Abhishek/Problem_Solving/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/32342Abhishek/Problem_Solving/tree/master/0217-contains-duplicate) |
+| [0451-sort-characters-by-frequency](https://github.com/32342Abhishek/Problem_Solving/tree/master/0451-sort-characters-by-frequency) |
 | [3536-maximum-product-of-two-digits](https://github.com/32342Abhishek/Problem_Solving/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
@@ -137,4 +140,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/32342Abhishek/Problem_Solving/tree/master/1903-largest-odd-number-in-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/32342Abhishek/Problem_Solving/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/32342Abhishek/Problem_Solving/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/32342Abhishek/Problem_Solving/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->

@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/32342Abhishek/Problem_Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/32342Abhishek/Problem_Solving/tree/master/0796-rotate-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/32342Abhishek/Problem_Solving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1903-largest-odd-number-in-string](https://github.com/32342Abhishek/Problem_Solving/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/32342Abhishek/Problem_Solving/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/32342Abhishek/Problem_Solving/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/32342Abhishek/Problem_Solving/tree/master/1137-n-th-tribonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/32342Abhishek/Problem_Solving/tree/master/1903-largest-odd-number-in-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/32342Abhishek/Problem_Solving/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/32342Abhishek/Problem_Solving/tree/master/0918-maximum-sum-circular-subarray) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/32342Abhishek/Problem_Solving/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
